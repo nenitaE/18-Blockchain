@@ -3,11 +3,12 @@
 Dependencies needed: <br>
     MyCrypto desktop app <br>
     Go Ethereum Tools
-    [Click here for instructions on setting up these tools.](https://unchar.bootcampcontent.com/The-Coding-Bootcamp/uncc-virt-fin-pt-02-2021-u-c/-/blob/master/lesson-plans/18-Blockchain/Supplemental/blockchain-install-guide.md)
+   
+   Instructions for setting up these tools can be found <a href="https://github.com/nenitaE/18-Blockchain/blob/main/Instructions/blockchain-install-guide.md">HERE</a>
     <br><br/>
 
 ## Once the tools have been installed, perform the following to launch espinosanet:<br>
-<br>
+
 Open a terminal window and navigate to the blockchain tools folder.<br>
     
 
